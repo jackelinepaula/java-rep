@@ -14,8 +14,12 @@ public class Greeting {
 		
 		System.out.println("Insira sua idade");
 		int idade = scan.nextInt();
+		
 		 
 		System.out.println(greeting + nome + "\n" + "Você tem "+ idade + " anos");
+		
+		System.out.println("Ass: Criadora, Jackeline");
+		System.out.println("Colaborador: Carjooj");
 		
 	}
 }
