@@ -16,10 +16,12 @@ public class Greeting {
 		int idade = scan.nextInt();
 		
 		 
-		System.out.println(greeting + nome + "\n" + "Você tem "+ idade + " anos");
+		System.out.println(greeting + nome + "\n" + "Vocï¿½ tem "+ idade + " anos");
 		
 		System.out.println("Ass: Criadora, Jackeline");
 		System.out.println("Colaborador: Carjooj");
+		// ComentÃ¡rio atividade fork
+		System.out.println("Forkando o repo")
 		
 	}
 }
